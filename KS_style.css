@@ -1,0 +1,185 @@
+/* CSS files add styling rules to your content */
+
+body {
+  /* PROJECT TITLES */
+  font-family: 'Montserrat';
+  color: #096e7f;
+  font-size: 20pt;
+  margin: 2em;
+  width: 100%;
+  height: 100%;
+  background: #c1f0ff;
+}
+
+a {
+  font-size: 24px;
+}
+
+p {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+/* KATIE SHIN WEBSITE TITLE */
+
+h1 {
+  color: #63b0bd;
+  font-size: 60pt;
+  font-family: 'Montserrat';
+  font-weight: lighter;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.special-h2 {
+  margin-top: 0;
+  text-align: center;
+}
+
+/* PAGE TITLES */
+
+h2 {
+  font-size: 40pt;
+  color: #096e7f;
+  font-family: 'Montserrat';
+  font-weight: lighter;
+  margin-left: 0%;
+  margin-top: 30%;
+}
+
+button {
+  font-family: "Inconsolata", monospace;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  width: 100%;
+  /* text-align: center; */
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 30px 2px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 12pt;
+  line-height: 18pt;
+}
+
+.left {
+  width: 15%;
+  padding: 1% 1% 1% 0;
+  float: left;
+  display: inline-block;
+}
+
+.center {
+  width: 15%;
+  padding: 1%;
+  float: left;
+  display: inline-block;
+}
+
+.right {
+  width: 60%;
+  padding: 1%;
+  float: left;
+  display: inline-block;
+}
+
+.nav {
+  padding: 2%;
+  width: 26%;
+  height: 100%;
+  display: inline-block;
+  float: left;
+}
+
+.content {
+  padding: 2%;
+  width: 50%;
+  display: inline-block;
+  float: left;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 12pt;
+  list-style-type: none;
+  padding-bottom: 1em;
+}
+
+li.bullet {
+  list-style-type: "- ";
+  margin: 1%;
+  padding: 0;
+}
+
+li.bullet a {
+  color: deepskyblue;
+}
+
+li a {
+  color: dodgerblue;
+  /* text-decoration: none; */
+}
+
+iframe {
+  margin: 0;
+  padding: 0;
+  border: none;
+  width: 100%;
+  /* height: 400px; */
+  display: inline-block;
+  float: left;
+  margin-bottom: 2%;
+}
+
+.full-width-box {
+  width: 100%;
+  margin-bottom: 2%;
+  display: inline-block;
+  float: left;
+}
+
+img {
+  height: 600px;
+  display: inline-block;
+  float: left;
+  margin-bottom: 2%;
+  margin-right: 2%;
+}
+
+.cloudSize1 {
+  width: 300px;
+  height: auto;
+  margin-left: 20%;
+}
+
+.cloudSize2 {
+  width: 200px;
+  height: auto;
+  margin-left: 20%;
+}
+
+.cloudSize3 {
+  width: 350px;
+  height: auto;
+  margin-left: 20%;
+}
+
+.cloudSize4 {
+  width: 180px;
+  height: auto;
+  margin-left: 5%;
+}
+
+.cloudSize5 {
+  width: 220px;
+  height: auto;
+  margin-left: 20%;
+}
